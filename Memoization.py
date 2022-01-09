@@ -1,5 +1,5 @@
 """
-Memoization is a technique of recording the intermediate results so that it can be use to
+Memoization is a technique of recording the intermediate results so that it can be used to
 avoid repeated calculations and speed up the programs. In python it can be done using function decorators.
 Memoization can be used to optimize the programs that use recursion.
 """

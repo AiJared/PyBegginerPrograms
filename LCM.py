@@ -1,4 +1,5 @@
-n1, n2 = 15, 20
+n1 = int(input("Enter the first number: "))
+n2 = int(input("Enter the second number: "))
 if (n1 > n2):
     max = n1
 else:

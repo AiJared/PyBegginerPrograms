@@ -1,6 +1,6 @@
 # String of each vowel
 vowels = "aeiou"
-ip_str = "Hello, welcome at wecodeinpython"
+ip_str = input("Enter a string: ")
 # Make it suitable for caseless comparisons
 ip_str = ip_str.casefold()
 # Make a dictionary with each vowel a key and value 0
