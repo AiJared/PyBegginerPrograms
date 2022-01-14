@@ -43,6 +43,3 @@ def hangman():
         print('You guessed the word', word, '!!')
 
 hangman()
-
-user_input = input("Type something: ")
-print(user_input)

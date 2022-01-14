@@ -120,4 +120,3 @@ words = ["aback","abaft","abandoned","abashed","aberrant","abhorrent","abiding",
 "wren","wrench","wrestle","wretched","wriggle","wrist","writer","writing","wrong","wry","x-ray","yak","yam","yard",
 "yarn","yawn","year","yell","yellow","yielding","yoke","young","youthful","yummy","zany","zealous","zebra","zephyr",
 "zesty","zinc","zip","zipper","zippy","zonked","zoo","zoom"]
-print(words)
